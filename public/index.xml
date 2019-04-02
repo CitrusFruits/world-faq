@@ -1,14 +1,116 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cupper</title>
+    <title>Home on Cupper</title>
     <link>https://example.com/</link>
-    <description>Recent content on Cupper</description>
+    <description>Recent content in Home on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
     
 	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Are My Clothes Actually Made by Slaves?</title>
+      <link>https://example.com/are-my-clothes-made-by-slaves/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/are-my-clothes-made-by-slaves/</guid>
+      <description>The answer to this question, quite unsatisfactorily, is that it depends. Chances that the clothes you are wearing were made in a manufacturing facility by anyone who would be considered a slave, by the common definition of modern slavery, are less than likely but still substantial. That is not to say that all employees at the factory(ies) that your clothes were made in were well taken care of. For example, in China, the World’s largest exporter of textiles, the best case scenario for a worker, with respect to minimum wage, is 18.</description>
+    </item>
+    
+    <item>
+      <title>How Many Slaves are There in the World?</title>
+      <link>https://example.com/how-many-slaves-in-the-world/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/how-many-slaves-in-the-world/</guid>
+      <description>To understand the prevalence of slavery in the world today, first we have to come to a understanding of what is considered slavery.
+Classically slavery can be defined as the state of a person who is owned by another person [1]. This form of slavery has been outlawed in every country in the world, although that does not necessarily mean it is enforced. Most data gathering organizations today, however, choose to use a broader and more inclusive term.</description>
+    </item>
+    
+    <item>
+      <title>How much oil do we have left?</title>
+      <link>https://example.com/how-much-oil/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/how-much-oil/</guid>
+      <description>Crude oil, a fossil fuel that is a product of heating and compression of organic materials over millions of years[1], is typically refined into petroleum. While petroleum can be used to create a variety of goods including plastics, polyurethane, and solvents, it is most popularly used to create fuel. The most popular types of petroleum based fuels are, in order of total U.S. consumption, gasoline, distillate fuel oils (diesel, heating oil), hydrocarbon gas liquids (propane, ethane, butane, etc.</description>
+    </item>
+    
+    <item>
+      <title>How much raw materials (iron/gold/silver) do we have on earth?</title>
+      <link>https://example.com/how-much-resources/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/how-much-resources/</guid>
+      <description>How much raw materials (iron/gold/silver) do we have on earth? What is the most sustainable material?
+When asking how much materials we have on earth, it is more than likely that you’re thinking of oil first. If you&amp;rsquo;re interested in that, please check out the article here.
+Other Resources Oil is not the only non-renewable resource that humanity currently depends on. It’s difficult to develop an objective metric for the most important natural earthly resources, but the folks at Conserve Energy Future have come up with a top 10 list that covers all of the big ones.</description>
+    </item>
+    
+    <item>
+      <title>What is a corporation, and why do they do such terrible things?</title>
+      <link>https://example.com/what-is-a-corporation/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/what-is-a-corporation/</guid>
+      <description>A corporation can be defined as an artificial individual used to represent the actions, responsibilities, and assets of a business or institution [1]. There are a couple key things to understand about corporations:
+A corporations is, for many intents and purposes, a legal person with limited rights[1]. Corporations have “birth” and “death” certificates, can perform actions, have the right to defend themselves in court, can own assets, etc. A large motivation in forming a corporation (or LLC for that matter) is to protect its owners by moving individual liability (legal responsibility) from owners and employees to the corporation itself[1].</description>
+    </item>
+    
+    <item>
+      <title>Will Global Climate Change Actually Sink Florida?</title>
+      <link>https://example.com/climate-change-sink-florida/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/climate-change-sink-florida/</guid>
+      <description>First of all, let’s establish that climate change is real, and currently happening.
+“Warming of the climate system is unequivocal, and since the 1950s, many of the observed changes are unprecedented over decades to millennia. The atmosphere and ocean have warmed, the amounts of snow and ice have diminished, and sea level has risen.” - International Panel on Climate Change Synthesis Report 2014[1].
+Global CO2 levels have increased dramatically since the Industrial Revolution (circa 1850) and 97% of climate scientists agree the the overall climate warming trends are very likely due to human activities[2].</description>
+    </item>
+    
+    <item>
+      <title>Cupper Typography</title>
+      <link>https://example.com/cupper-typography/</link>
+      <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
+      
+      <guid>https://example.com/cupper-typography/</guid>
+      <description>Headings # Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6  Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Text *This text will be italic* _This will also be italic_ **This text will be bold** __This will also be bold__ _You **can** combine them_  This text will be italic
+This will also be italic
+This text will be bold</description>
+    </item>
+    
+    <item>
+      <title>Cupper Shortcodes</title>
+      <link>https://example.com/cupper-shortcodes/</link>
+      <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
+      
+      <guid>https://example.com/cupper-shortcodes/</guid>
+      <description>blockquote {{% blockquote author=&amp;quot;Carl Jung&amp;quot; %}} Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity. {{% /blockquote %}}   Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.</description>
+    </item>
+    
+    <item>
+      <title>NASA Images</title>
+      <link>https://example.com/nasa-images/</link>
+      <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
+      
+      <guid>https://example.com/nasa-images/</guid>
+      <description>The below images are from the NASA Image and Video Library &amp;ndash; indulge yourself, revel in their beauty.
+ The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Credits.    The Moon is an astronomical body that orbits planet Earth and is Earth&amp;rsquo;s only permanent natural satellite.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
+It makes use of a variety of open source projects including:
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+    </item>
     
   </channel>
 </rss>
